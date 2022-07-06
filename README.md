@@ -1,8 +1,8 @@
-# 自动填写 PAFD 好耶 
+# 自动填写 PAFD 好 
 
 update: 如果你是 PAFD 的用户，对技术感兴趣，欢迎加入我们的 slack 组织，用 fudan.edu.cn 或者 m.fudan.edu.cn 的学号邮箱[点击这里注册加入 slack](https://join.slack.com/t/fducslg/signup) （可能需要科学上网工具）
 
-[技术原理解读文章](https://github.com/FDUCSLG/fducslg/blob/master/content/blog/2020-11-23-PAFD-EXPLAINED.md)
+[技术原理解读文章](https://github.com/FDUCSLG/fducslg/blob/master/content/blog/2020-11-23-PAFD-EXPLAINED.md)Cancel changes
 
 update: 如果你收到了填报失败的通知，可以考虑更新一下你的 fork，在你原来 fork 的仓库页面，点击 fetch upstream 即可
 
